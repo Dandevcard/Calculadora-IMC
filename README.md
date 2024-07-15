@@ -6,7 +6,7 @@
 </div>
 
 ## Sobre o projeto
-Este projeto é SObre uma Calculadora de IMC simples
+Este projeto é Sobre uma Calculadora de IMC simples
 -Html
 -Css
 -JavaScript
